@@ -80,11 +80,11 @@
 </tr>
 <tr>
   <td class="pronoun noRightBorder">Вони</td>
-  <td class="noLeftBorder">We</td>
+  <td class="noLeftBorder">They</td>
   <td class="pronoun noRightBorder">Їх</td>
-  <td class="noLeftBorder">Us</td>
+  <td class="noLeftBorder">Them</td>
   <td class="pronoun noRightBorder">Ним</td>
-  <td class="noLeftBorder">Us</td>
+  <td class="noLeftBorder">Them</td>
 </tr>
 <tr>
   <th colspan="6">Про предмети</th>

@@ -13,10 +13,12 @@
     padding: 5px;
     vertical-align: middle;
   }
+  
   .redText {
     color: #C85050;
     font-weight: bold;
   }
+  
   .noun {
       color: #AAAAAA;
   }
