@@ -30,11 +30,13 @@
     <td>Артикль</td>
     <td>Приховане значення</td>
     <td>Пояснення</td>
+    <td>Замітка</td>
   </tr>
   <tr>
     <td>a</td>
     <td class="grayText">any</td>
     <td>будь-який предмет</td>
+    <td></td>
   </tr>
   <tr>
     <td>an</td>
