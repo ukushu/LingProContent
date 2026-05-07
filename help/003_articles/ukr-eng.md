@@ -27,31 +27,37 @@
 
 <table class="articlesTbl">
   <tr>
+    <th>Артикль</th>
+    <th>Приховане значення</th>
+    <th>Пояснення</th>
+    <th>Замітка</th>
+  </tr>
+  <tr>
     <td>a</td>
     <td class="grayText">any</td>
     <td>будь-який предмет</td>
+    <td>Ніколи не використовується для множини</td>
   </tr>
   <tr>
     <td>an</td>
     <td class="grayText">any</td>
     <td>будь-який предмет</td>
-    <td class="grayText">Перед словом, що починається на голосний звук</td>
+    <td class="grayText">Ніколи не використовується для множини; </br>Перед словом, що починається на голосний звук</td>
   </tr>
   <tr>
     <td>the</td>
     <td class="grayText">that</td>
-    <td>той конкретний предмет</td>
-    <td class="grayText">Коли співбесідник розуміє, про який предмет ідеться</td>
-  </tr>
-  <tr>
-    <td colspan="4" class="grayText">Коли множина - артиклі не використовуються</td>
+    <td>той конкретний предмет / та конкретна конкретна група предметів</td>
+    <td class="grayText">Коли співбесідник розуміє, про який саме конкретний предмет(або конкретну групу предметів) йде мова.</td>
   </tr>
 </table>
 
 <p>Приклад:</p>
 <p class="smallGrayArticleText"> На столі лежить 5 ручок: 4 червоних і 1 синя</p> 
 <ul>
-  <li>Give me a pen = дай мені ручку <a class="smallGrayArticleText">(будь-яку)</a></li>
+  <li>Give me a pen = дай мені ручку <a class="smallGrayArticleText">(будь-яку - колір не грає ролі)</a></li>
   <li>Give me the blue pen = дай мені синю ручку <a class="smallGrayArticleText">(ту конкретну - синю)</a></li>
+  <li>Give me pens = дай мені ручки <a class="smallGrayArticleText">(будь-які)</a></li>
+  <li>Give me the red pens = дай мені червоні ручки <a class="smallGrayArticleText">(ті конкретні - червоні)</a></li>
 </ul>
 
